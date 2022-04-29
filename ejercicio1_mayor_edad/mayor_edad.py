@@ -13,4 +13,4 @@ edad =int(input("Digite la edad: "))
 if edad >= 18:
     print("la persona es MAYOR DE EDAD")
 else:
-    print("la persona es MENOR DE EDAD")
+    print("la persona es MENOR DE EDAD") 
